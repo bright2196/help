@@ -1,0 +1,31 @@
+webpackHotUpdate("main",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/components/MyAccountHeader/AccountHeader.module.css":
+/*!********************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-5-1!./node_modules/postcss-loader/src??postcss!./src/components/MyAccountHeader/AccountHeader.module.css ***!
+  \********************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".AccountHeader_AccountHeaderContainer__1Zn3J {\n  display: flex;\n  flex-direction: row;\n  margin-top: 4vh;\n}\n\n.AccountHeader_textContainer__3Q6zI {\n  display: inline;\n  display: flex;\n  flex-direction: column;\n}\n\n.AccountHeader_linkModify__WczYZ {\n  text-decoration: none;\n\n  font-size: 12px;\n  color: #2b2b2b;\n  margin-top: -20px;\n}\n\n.AccountHeader_linkModify__WczYZ:hover {\n  font-size: 12px;\n  color: #2b2b2b;\n}\n", "",{"version":3,"sources":["webpack://src/components/MyAccountHeader/AccountHeader.module.css"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,mBAAmB;EACnB,eAAe;AACjB;;AAEA;EACE,eAAe;EACf,aAAa;EACb,sBAAsB;AACxB;;AAEA;EACE,qBAAqB;;EAErB,eAAe;EACf,cAAc;EACd,iBAAiB;AACnB;;AAEA;EACE,eAAe;EACf,cAAc;AAChB","sourcesContent":[".AccountHeaderContainer {\n  display: flex;\n  flex-direction: row;\n  margin-top: 4vh;\n}\n\n.textContainer {\n  display: inline;\n  display: flex;\n  flex-direction: column;\n}\n\n.linkModify {\n  text-decoration: none;\n\n  font-size: 12px;\n  color: #2b2b2b;\n  margin-top: -20px;\n}\n\n.linkModify:hover {\n  font-size: 12px;\n  color: #2b2b2b;\n}\n"],"sourceRoot":""}]);
+// Exports
+___CSS_LOADER_EXPORT___.locals = {
+	"AccountHeaderContainer": "AccountHeader_AccountHeaderContainer__1Zn3J",
+	"textContainer": "AccountHeader_textContainer__3Q6zI",
+	"linkModify": "AccountHeader_linkModify__WczYZ"
+};
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ })
+
+})
+//# sourceMappingURL=main.4da43435636d58501101.hot-update.js.map

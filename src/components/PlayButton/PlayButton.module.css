@@ -1,0 +1,14 @@
+.blobWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.playPauseButtonContainer {
+  position: absolute;
+}
+
+.playPauseButton {
+  background-color: #ffffff00;
+  border: none;
+}

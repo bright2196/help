@@ -1,0 +1,13 @@
+.buttonPlaylistTrigger {
+    border-radius: 10px;
+    width: 40vw;
+    height: 10vh;
+    border: none;
+    font-size: 16px;
+    font-family: Montserrat;
+    text-align: left;
+    padding-right: 10px;
+    backdrop-filter: blur(20px);
+    
+}
+

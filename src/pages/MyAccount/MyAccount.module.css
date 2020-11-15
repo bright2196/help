@@ -1,0 +1,30 @@
+.titreMyAccount {
+  font-size: 20px;
+  padding-left: 12vw;
+  display: inline;
+}
+
+.myAccountContainer {
+  display: flex;
+  justify-content: center;
+}
+
+label {
+  display: inline;
+  text-align: start;
+  font-size: 12px;
+}
+
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10vw;
+  justify-content: space-between;
+}
+
+.anims {
+  display: flex;
+  align-items: center;
+  /* A CHANGER OMG */
+  padding: 0 50px 0 50px;
+}
